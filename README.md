@@ -107,6 +107,7 @@ Calculated source columns:
 The dashboard combines KPI cards, a trend chart, and category/product/region/customer/payment visualizations, with slicer objects for interactive filtering.
 
 > **Note:** Slicers are native Excel objects and may not render correctly in non-Excel spreadsheet viewers (e.g., Google Sheets, LibreOffice, GitHub's file preview). Open the workbook in **Microsoft Excel** for the full interactive experience.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3ee1395e-aebc-4686-a9fb-86e63031563c" />
 
  
 
